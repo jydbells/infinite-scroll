@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jydbells/infinite-scroll/issues"
   },
-  "homepage": "https://github.com/jydbells/infinite-scroll#readme"
+  "homepage": "https://github.com/jydbells/infinite-scroll#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
